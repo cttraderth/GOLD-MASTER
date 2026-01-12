@@ -1,0 +1,8 @@
+{
+  "name": "Gold Master: Ultimate Trading Hub",
+  "description": "A comprehensive gold trading platform integrating expert education, advanced analytical tools, real-time trading signals, and a vibrant trader community, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
